@@ -1,0 +1,120 @@
+﻿html, body {
+    height: 100%;
+}
+
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+.header {
+	background-image:url(assets/images/bg_pic1.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	text-align:center;
+    height:310px;
+}
+
+.header-default {
+	background-image:url(assets/images/bg_pic1.jpg);
+    /*background-image:url(assets/images/ETS-big-picture.jpg);*/
+	background-position: top center;
+	background-repeat: no-repeat;
+	text-align:center;
+  
+}
+
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -155px; /* the bottom margin is the negative value of the footer's height */
+}
+.space-vertical{
+	margin-top:80px;
+}
+.text-center{
+	text-align:center;
+}
+
+.middle-bar{
+	height:248px;
+	background-image: url(../../images/big_pic2.jpg);
+}
+
+
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+	color: #ffffff;
+}
+.btn-become-member {
+    background: rgb(222,117,91);
+    color: #ffffff;
+}
+.btn-become-member:hover{
+    background: black;
+	color: #ffffff;
+}
+
+.mission{
+	background-image:url(assets/images/page1_icon1.png);
+	background-repeat: no-repeat;
+	background-position: center;	
+	height:50px;
+	margin-bottom:30px;
+}
+
+.vision{
+	background-image:url(assets/images/page1_icon2.png);
+	background-repeat: no-repeat;
+	background-position: center;	
+	height:50px;
+	margin-bottom:30px;
+}
+
+.objectif{
+	background-image:url(assets/images/page1_icon1.png);
+	background-repeat: no-repeat;
+	background-position: center;	
+	height:50px;
+	margin-bottom:30px;
+}
+
+.first-bar{
+	background-image:url(assets/images/big_pic2.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	text-align:center;
+    height:310px;
+}
+
+.card{
+	width:400px;
+	height:200px
+}
+.description{
+	margin-left:220px;
+	text-align:left;
+}
+
+.footer{
+	background: rgb(50, 57, 63);
+	text-align: center;
+	position: relative;
+	bottom:0;
+}
