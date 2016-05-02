@@ -84,23 +84,24 @@
 		}
 	</style>
 
-	<div class="modal fade" tabindex="-1" role="dialog">
-		<div class="modal-dialog">
-			<div class="modal-content">
-			  <div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<h4 class="modal-title">Modal title</h4>
-			  </div>
-			  <div class="modal-body">
-				<p>One fine body&hellip;</p>
-			  </div>
-			  <div class="modal-footer">
-				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				<button type="button" class="btn btn-primary">Save changes</button>
-			  </div>
-			</div><!-- /.modal-content -->
-		</div><!-- /.modal-dialog -->
-	</div><!-- /.modal -->
+	<!-- Modal -->
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	  <div class="modal-dialog" role="document">
+		<div class="modal-content">
+		  <div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+		  </div>
+		  <div class="modal-body">
+			...
+		  </div>
+		  <div class="modal-footer">
+			<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			<button type="button" class="btn btn-primary">Save changes</button>
+		  </div>
+		</div>
+	  </div>
+	</div>
 
 
 
@@ -124,7 +125,7 @@
 			<div class="col-lg-12 space-vertical"><span style="font-weight: bolder;;font-size:60px;color:#ffffff;">PROMOUVOIR L'ENTREPRENEURIAT</span></div>
             <!--<div class="col-md-12" style="color:white;margin-top:50px"><span style=";font-size:15px;color:#ffffff;font-weight: bold;">&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash; LOREM IPSUM DOLOR SIT ADIPISCING ELIT &ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;&ndash;</span></div>-->
 			<div class="col-md-12" style="margin-bottom: 100px;">
-				<button type="button" class="btn space-vertical btn-become-member">DEVENEZ MEMBRE</button>
+				<button type="button" class="btn space-vertical btn-become-member" data-toggle="modal" data-target="#myModal">DEVENEZ MEMBRE</button>
 			</div>
 		</div>
 	</div>
