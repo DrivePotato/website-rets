@@ -44,6 +44,10 @@ ul li a:click {
 	border:1px solid;
 }
 		
+.pull-right {
+  float: right !important;
+  text-align:right;
+}
 
 
 /* centered columns styles */
