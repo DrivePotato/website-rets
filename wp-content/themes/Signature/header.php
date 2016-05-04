@@ -34,46 +34,6 @@
 	
 	<div class="header">
 		<div class="container-fluid">
-			<style> 
-				ul {
-					margin-top:20px;
-					display: inline-block;
-					list-style: none outside none;
-				 }
-				 
-				li {
-					float:left;
-					height: 35px;
-					margin:0px 1px 0 1px;
-				}
-				 
-				ul li a {
-					display:block;
-					color:white;
-					text-decoration:none;
-					padding:6px 15px 0px 15px;
-				}
-				 
-				ul li:hover {
-					color:white;
-					text-decoration:none;
-					border:1px solid;
-				}  
-				ul li a:hover {
-					color: white;
-					text-decoration:none;
-				}
-				ul li a:click {
-					text-decoration:none;
-				} 		
-
-				.active{
-					color:white;
-					text-decoration:none;
-					border:1px solid;
-				}
-			</style>
-
 			<div class="header">
 				<div class="container-fluid">
 					<div class="col-md-12 space-vertical" style="color:white">			
