@@ -8,6 +8,7 @@ ul {
 	margin-top:20px;
 	display: inline-block;
 	list-style: none outside none;
+	text-transform: uppercase;
  }
  
 li {
@@ -37,6 +38,12 @@ ul li a:hover {
 ul li a:click {
 	text-decoration:none;
 } 		
+
+.current-menu-item{
+	color:white;
+	text-decoration:none;
+	border:1px solid;
+}
 
 .active{
 	color:white;

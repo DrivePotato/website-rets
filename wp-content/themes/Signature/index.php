@@ -9,7 +9,7 @@
  *
  * Learn more: {@link https://codex.wordpress.org/Template_Hierarchy}
  *
- * @package rets
+ * @package website-rets
  * @subpackage Signature
  */ ?>
 
@@ -202,13 +202,15 @@
 				</div>
 			</div>
 			<div class="col-md-12;">
-					<ul>
+			<?php wp_nav_menu($args); ?>
+					<!--<ul>
 						<li class="active"><a href="home"><span style="">ACCUEIL</span></a></li>
+						<li><a title="EN CONSTRUCTION" href="#">ENTREPRENEUR & CO.</a></li>
 						<li><a title="EN CONSTRUCTION" href="#">ARTICLES</a></li>
 						<li><a title="EN CONSTRUCTION" href="#">CONFERENCE</a></li>
 						<li><a title="EN CONSTRUCTION" href="#"><span style="">CALENDRIER</span></a></li>
 						<li><a title="EN CONSTRUCTION" href="#">A PROPOS</a></li>
-					</ul>
+					</ul>-->
 			</div>
 			
 			<div class="col-lg-12 space-vertical"><span style="font-weight: bolder;;font-size:60px;color:#ffffff;">PROMOUVOIR L'ENTREPRENEURIAT</span></div>

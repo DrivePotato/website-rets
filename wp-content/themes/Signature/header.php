@@ -82,13 +82,7 @@
 						</div>
 					</div>
 					<div class="col-md-12;">
-						<ul>
-							<li class="active"><a href="home"><span style="">ACCUEIL</span></a></li>
-							<li><a href="#">ARTICLES</a></li>
-							<li><a href="#">CONFERENCE</a></li>
-							<li><a href="#"><span style="">EQUIPE</span></a></li>
-							<li><a href="about">A PROPOS</a></li>
-						</ul>
+						<?php wp_nav_menu($args); ?>
 					</div>
 				</div>
 			</div>
