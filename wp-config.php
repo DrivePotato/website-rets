@@ -55,9 +55,6 @@ define('SECURE_AUTH_SALT', 'OU1](aRdc^q6a/q]*/@!8BN.exC6*rxQu#&z#HD$[Wp4H(.IL ,G
 define('LOGGED_IN_SALT',   'taCB`67}}/eZW9JQQQ4)UTPWgx&$f[S6R4lqe~1AItk?rnJ90h[O}8k^P+l39lk)');
 define('NONCE_SALT',       '4Af eUw)1[-6E7U*vE|2xPL-@_&?}j:@,U~~!pfo1h)hV? { gekd!VT($N}sxom');
 
-define('WP_HOME','http://127.0.0.1/website-rets/');
-define('WP_SITEURL','http://127.0.0.1/website-rets/');
-
 /**#@-*/
 
 /**
