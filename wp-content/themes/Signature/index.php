@@ -319,7 +319,7 @@
 				<div class="" style="width:300px;">
 					<img style="border-radius:50%;width:95px;height:95px;float:left" src="<?php bloginfo('template_directory'); ?>/assets/images/page1_pic5.jpg" >
 					<div class="" style="text-align:left;padding-left:110px">
-						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Mathieu Phaneuf</span>
+						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Julian Lucchesi</span>
 						<span style="font-family:'Open Sans';font-size:14px;color:#dd745c;"><p>President</p></span>
 						<span style="font-family:'Open Sans';font-size:14px;color:#9da2a7;">Praesent vestibulum molestie lacus. Aenean nonummy hedrit mauris. Phasellus porta.</span>
 						<br />
@@ -346,7 +346,7 @@
 				<div class="" style="width:300px;">
 					<img style="border-radius:50%;width:95px;height:95px;float:left" src="<?php bloginfo('template_directory'); ?>/assets/images/page1_pic5.jpg" >
 					<div class="" style="text-align:left;padding-left:110px">
-						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Mathieu Phaneuf</span>
+						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">William St-Pierre</span>
 						<span style="font-family:'Open Sans';font-size:14px;color:#dd745c;"><p>President</p></span>
 						<span style="font-family:'Open Sans';font-size:14px;color:#9da2a7;">Praesent vestibulum molestie lacus. Aenean nonummy hedrit mauris. Phasellus porta.</span>
 						<br />
@@ -373,7 +373,7 @@
 				<div class="" style="width:300px;">
 					<img style="border-radius:50%;width:95px;height:95px;float:left" src="<?php bloginfo('template_directory'); ?>/assets/images/page1_pic5.jpg" >
 					<div class="" style="text-align:left;padding-left:110px">
-						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Mathieu Phaneuf</span>
+						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Jonathan Dorleans</span>
 						<span style="font-family:'Open Sans';font-size:14px;color:#dd745c;"><p>President</p></span>
 						<span style="font-family:'Open Sans';font-size:14px;color:#9da2a7;">Praesent vestibulum molestie lacus. Aenean nonummy hedrit mauris. Phasellus porta.</span>
 						<br />
@@ -400,7 +400,7 @@
 				<div class="" style="width:300px;">
 					<img style="border-radius:50%;width:95px;height:95px;float:left" src="<?php bloginfo('template_directory'); ?>/assets/images/page1_pic5.jpg" >
 					<div class="" style="text-align:left;padding-left:110px">
-						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Mathieu Phaneuf</span>
+						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Laure Cerisy</span>
 						<span style="font-family:'Open Sans';font-size:14px;color:#dd745c;"><p>President</p></span>
 						<span style="font-family:'Open Sans';font-size:14px;color:#9da2a7;">Praesent vestibulum molestie lacus. Aenean nonummy hedrit mauris. Phasellus porta.</span>
 						<br />
@@ -427,7 +427,7 @@
 				<div class="" style="width:300px;">
 					<img style="border-radius:50%;width:95px;height:95px;float:left" src="<?php bloginfo('template_directory'); ?>/assets/images/page1_pic5.jpg" >
 					<div class="" style="text-align:left;padding-left:110px">
-						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Mathieu Phaneuf</span>
+						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Olivier Rheault Gagnon</span>
 						<span style="font-family:'Open Sans';font-size:14px;color:#dd745c;"><p>President</p></span>
 						<span style="font-family:'Open Sans';font-size:14px;color:#9da2a7;">Praesent vestibulum molestie lacus. Aenean nonummy hedrit mauris. Phasellus porta.</span>
 						<br />
@@ -450,87 +450,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 col-centered">
-				<div class="" style="width:300px;">
-					<img style="border-radius:50%;width:95px;height:95px;float:left" src="<?php bloginfo('template_directory'); ?>/assets/images/page1_pic5.jpg" >
-					<div class="" style="text-align:left;padding-left:110px">
-						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Mathieu Phaneuf</span>
-						<span style="font-family:'Open Sans';font-size:14px;color:#dd745c;"><p>President</p></span>
-						<span style="font-family:'Open Sans';font-size:14px;color:#9da2a7;">Praesent vestibulum molestie lacus. Aenean nonummy hedrit mauris. Phasellus porta.</span>
-						<br />
-						<span style="font-family:'Open Sans';font-size:14px;color:#9da2a7;">
-							<a title="Facebook" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes);return false;" href="https://www.facebook.com/regroupRETS/" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/facebook_icon.png" alt="Facebook" />
-							</a>
-							<a title="Twitter" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes);return false;" href="https://twitter.com/ClubEnergieETS" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/twitter_icon.png" alt="Twitter" />
-							</a> 
-							<a title="Linkedin" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes);return false;" href="https://twitter.com/ClubEnergieETS" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/linkedin_icon.png" alt="Linkedin" />
-							</a> 
-							<a title="Envoyer par mail" href="mailto:Rets.communication@etsmtl.net?" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/email_icon.png" alt="email" />
-							</a>
-							<br />
-							<a  target="_blank" href="http://rets.ca">http://mathieuphaneuf.ca/</a>
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4 col-centered">
-				<div class="" style="width:300px;">
-					<img style="border-radius:50%;width:95px;height:95px;float:left" src="<?php bloginfo('template_directory'); ?>/assets/images/page1_pic5.jpg" >
-					<div class="" style="text-align:left;padding-left:110px">
-						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Mathieu Phaneuf</span>
-						<span style="font-family:'Open Sans';font-size:14px;color:#dd745c;"><p>President</p></span>
-						<span style="font-family:'Open Sans';font-size:14px;color:#9da2a7;">Praesent vestibulum molestie lacus. Aenean nonummy hedrit mauris. Phasellus porta.</span>
-						<br />
-						<span style="font-family:'Open Sans';font-size:14px;color:#9da2a7;">
-							<a title="Facebook" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes);return false;" href="https://www.facebook.com/regroupRETS/" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/facebook_icon.png" alt="Facebook" />
-							</a>
-							<a title="Twitter" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes);return false;" href="https://twitter.com/ClubEnergieETS" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/twitter_icon.png" alt="Twitter" />
-							</a> 
-							<a title="Linkedin" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes);return false;" href="https://twitter.com/ClubEnergieETS" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/linkedin_icon.png" alt="Linkedin" />
-							</a> 
-							<a title="Envoyer par mail" href="mailto:Rets.communication@etsmtl.net?" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/email_icon.png" alt="email" />
-							</a>
-							<br />
-							<a  target="_blank" href="http://rets.ca">http://mathieuphaneuf.ca/</a>
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4 col-centered">
-				<div class="" style="width:300px;">
-					<img style="border-radius:50%;width:95px;height:95px;float:left" src="<?php bloginfo('template_directory'); ?>/assets/images/page1_pic5.jpg" >
-					<div class="" style="text-align:left;padding-left:110px">
-						<span style="font-family:'Open Sans';font-size:21px;color:#373b43;">Mathieu Phaneuf</span>
-						<span style="font-family:'Open Sans';font-size:14px;color:#dd745c;"><p>President</p></span>
-						<span style="font-family:'Open Sans';font-size:14px;color:#9da2a7;">Praesent vestibulum molestie lacus. Aenean nonummy hedrit mauris. Phasellus porta.</span>
-						<br />
-						<span style="font-family:'Open Sans';font-size:14px;color:#9da2a7;">
-							<a title="Facebook" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes);return false;" href="https://www.facebook.com/regroupRETS/" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/facebook_icon.png" alt="Facebook" />
-							</a>
-							<a title="Twitter" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes);return false;" href="https://twitter.com/ClubEnergieETS" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/twitter_icon.png" alt="Twitter" />
-							</a> 
-							<a title="Linkedin" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes);return false;" href="https://twitter.com/ClubEnergieETS" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/linkedin_icon.png" alt="Linkedin" />
-							</a> 
-							<a title="Envoyer par mail" href="mailto:Rets.communication@etsmtl.net?" rel="nofollow" target="_blank">
-								<img style="width:20px;height:20px;" src="http://korben.info/wp-content/themes/korben2013/hab/email_icon.png" alt="email" />
-							</a>
-							<br />
-							<a  target="_blank" href="http://rets.ca">http://mathieuphaneuf.ca/</a>
-						</span>
-					</div>
-				</div>
-			</div>
+		
 			
 			
 	</div>
