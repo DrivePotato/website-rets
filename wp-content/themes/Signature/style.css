@@ -3,42 +3,29 @@
 }
 
 
-/* MENU */
-ul {
+/* ----------- MENU BLANC ----------- */
+.menu {
 	margin-top:20px;
 	display: inline-block;
 	list-style: none outside none;
 	text-transform: uppercase;
  }
- 
-li {
+.menu li {
 	float:left;
 	height: 35px;
 	margin:0px 1px 0 1px;
-	
+	color:white;
+	text-decoration:none;
 }
- 
-ul li a {
+.menu  li a {
 	display:block;
 	color:white;
 	text-decoration:none;
 	padding:6px 15px 0px 15px;
 }
- 
-ul li:hover {
-	color:white;
-	text-decoration:none;
+.menu  li:hover {
 	border:1px solid;
-	padding: 1px -1px 0px -1px;
-}  
-ul li a:hover {
-	color: white;
-	text-decoration:none;
-}
-ul li a:click {
-	text-decoration:none;
-} 		
-
+}  	
 .current-menu-item{
 	color:white;
 	text-decoration:none;
@@ -50,12 +37,12 @@ ul li a:click {
 	text-decoration:none;
 	border:1px solid;
 }
+/* ----------- END MENU BLANC ----------- */
 		
 .pull-right {
   float: right !important;
   text-align:right;
 }
-
 
 /* centered columns styles */
 .row-centered {
@@ -105,7 +92,6 @@ ul li a:click {
 	background-image: url(../../images/big_pic2.jpg);
 }
 
-
 .btn {
     padding: 14px 24px;
     border: 0 none;
@@ -135,10 +121,12 @@ ul li a:click {
 }
 
 .vision{
-	background-image:url(assets/images/page1_icon2.png);
+	background-image:url(assets/images/icon-vision.png);
 	background-repeat: no-repeat;
 	background-position: center;	
+	background-size: 50px 30px;
 	height:50px;
+
 	margin-bottom:30px;
 }
 
@@ -157,7 +145,13 @@ ul li a:click {
 	text-align:center;
     height:310px;
 }
-
+.second-bar{
+	background-image:url(assets/images/big_pic2.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	text-align:center;
+    height:310px;
+}
 .card{
 	width:400px;
 	height:200px
@@ -173,6 +167,8 @@ ul li a:click {
 	position: relative;
 	bottom:0;
 }
+
+
 
 
 /*! Simple Calendar - 3.1.0-beta1

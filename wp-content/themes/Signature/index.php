@@ -191,7 +191,7 @@
 		</div>
 	  </div>
 	</div>
-
+	<!-- END Modal -->
 
 
 	<div class="header-default">
@@ -450,10 +450,43 @@
 					</div>
 				</div>
 			</div>
-		
-			
-			
+		</div>		
 	</div>
 	
+	<div class="row"> 
+		<div class="second-bar space-vertical">
+			<div class="col-md-12" style="padding-top:40px"></div>
+			<div class="col-md-12" style="color:white;margin-top:50px"></div>
+		</div>
+	</div>
+	
+	<div class="col-md-12 space-vertical"> <span style="font-family:'Open Sans';font-size:30px;color:#343d4d;"><b>NOS PARTENAIRES:</b></span></div>
+	<div class="col-md-12" style="margin-top: 15px;"> <p style="text-align:center;"><span style="font-family:'Open Sans';font-size:19px;color:#343d4d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span></p></div>
+	<div class="row row-centered space-vertical">	
+		<div class="col-md-3 col-centered">
+			<div style="width: 219px; height: 75px;">
+				<a href="https://www.etsmtl.ca/Entreprises-diplomes/Diplomes/Le-Reseau-ETS" target="_blank">
+					<img id="_mjs-object_77" src="<?php bloginfo('template_directory'); ?>/assets/images/partenaire-reseau-ets.png" class="" style="height: 75px;border:1px solid;color:white">
+				</a>
+			</div>
+		</div>
+		
+		<div class="col-md-3 col-centered">
+			<div style="width: 219px; height: 75px;">
+				<a href="https://www.etsmtl.ca/Entreprises-diplomes/Diplomes/Le-Reseau-ETS" target="_blank">
+					<img id="_mjs-object_77" src="<?php bloginfo('template_directory'); ?>/assets/images/partenaire-reseau-ets.png" class="" style="height: 75px;border:1px solid;color:white">
+				</a>
+			</div>
+		</div>	
+
+		<div class="col-md-3 col-centered">
+			<div style="width: 219px; height: 75px;">
+				<a href="https://www.etsmtl.ca/Entreprises-diplomes/Diplomes/Le-Reseau-ETS" target="_blank">
+					<img id="_mjs-object_77" src="<?php bloginfo('template_directory'); ?>/assets/images/partenaire-reseau-ets.png" class="" style="height: 75px;border:1px solid;color:white">
+				</a>
+			</div>
+		</div>		
+	</div>
+	<div class="col-md-12 space-vertical"></div>
 <?php get_footer(); ?>
 	
